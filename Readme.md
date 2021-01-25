@@ -5,7 +5,7 @@
 ## 참여자
   * 참여자분들은 해당 문서에 들어와 해당 항목에 참여자 github nickname을 팀별로 컨트리뷰션 해주시기 바랍니다.
 >1팀
-> JeongHyeSoo, Suhyeon07
+> JeongHyeSoo, Suhyeon07 (프로젝트 중단에 따른 사전 고지 후 2021.01.25 23:16분 Repo 삭제)
 >
 >2팀
 > rkdmfqka, gyeong07
